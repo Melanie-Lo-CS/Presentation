@@ -4,14 +4,24 @@
 ![alt text](https://github.com/Melanie-Lo-CS/Presentation/blob/master/TITLE%20PAGE.png )
 
 ## Introdction
-This program conatins JavaScript, HTML, and CSS, combined in one project. This program was inspired by a book my teacher gave me. It gave me a chance to enhance and give a better understanding of JavaScript. The idea of this program was to spread awareness of mental ilness, the most known ones (anxiety and depression). This idea was thought through the Technovation team of girls (Cup'O Java). We wanted to show support and demonstrate that these things actually happen. The program is still developing algorithms through videos, because it also gives the user a better chance at relating to this program. Although the program is not finished we would still like to show what we have done and maybe more ideas. We have been considering to bring this to Alberta Health Services because there may be some ideas that we can add into the program for our algorithm.
+Mental Health App is a program to spread awareness of mental illness. This code has been edited by the schools Girl's Technovation team (Cup'O Java), we have chose to code with CSS and HTML. We chose those three languages to make a an app, but so far we have made a website out of it. The third language we have considered was JavaScript. The website itself is raw code. This program is something our team is continuing to develop for example: the algorithms. 
 
 ## Instructions
-Even though the program isn't fully developed I will still explain the instructions of the program. The program will be developed into a game soon. The website includes a start button, and take a servey button. Pressing the "Take The Survey" button will take you to another page that is used to gather the users information, it is used as a broad understanding of how we care in a way and how this is also used as an algorithm. The "Start" button it will bring you to a page of videos and you get to choose what videos, you get to watch. Next after watching as many videos as you like there's a skip button in the left bottom corner to get you to play the "game". For now it is just a demonstartion of what JavaSCript looks like and what I learned.
+The first things in you need for my program to load are:
+*Atom
+*Chrome
+*My GitHub repository to download my files
+*URL(https://github.com/Melanie-Lo-CS/technovation)
+
 
 ## Preview
 ![alt text](https://github.com/Melanie-Lo-CS/Presentation/blob/master/%231.PNG)
 Picture of the survey.
 
 ![alt text](https://github.com/Melanie-Lo-CS/Presentation/blob/master/%232.PNG)
-Picture of the video
+Picture of the videos page.
+
+## Video
+
+## Purpose Of Program
+This program gives a purpose to present that mental illness is serious. Having mental illness in our society is being percieved as isolating the minority that have it. 
