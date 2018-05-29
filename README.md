@@ -7,15 +7,15 @@
 Mental Health App is a program to spread awareness of mental illness. This code has been edited by the schools Girl's Technovation team (Cup'O Java), we have chose to code with CSS and HTML. We chose those three languages to make a an app, but so far we have made a website out of it with only HTML and CSS. The third language we have considered was JavaScript. The website itself is raw code. This program is something our team is continuing to develop for example the algorithms. We are looking forward to contact Alberta Health Services and our student services to get new ideas for this app and make it suitable for mobile and everyone to use!
 
 ## Instructions
-The first things in you need for my program to load are:
+Specific instructions on how to download my program. 
 
-* Download Atom
 * Download Chrome
-* Go to GitHub repository URL(https://github.com/Melanie-Lo-CS/technovation)
-* download the zip from the download or clone button
+* Download Atom
+* Go to GitHub repository in chrome, URL:(https://github.com/Melanie-Lo-CS/technovation)
+* Download the zip from the download or clone button
 * Extract the file 
-* Right-click and open with Atom to see code
-* Otherwise double click to see my program and interact with it
+* The file then shows a chrome icons, double click on the "project.html" chrome file to see main page
+* Or right-click it and open with Atom to see raw code
 * Have fun!
 
 
@@ -29,4 +29,10 @@ Picture of the videos page.
 ## Video
 
 ## Purpose Of Program
-This program gives a purpose to present that mental illness is serious. Having mental illness in our society is being percieved as isolating the minority that have it. 
+This program is serving an understanding of Mental illness that some people struggle or suffer with. It's to spread awareness of how they're also humans just like every other person. The program is to bring understanding and how they're also not alone in their journey. In my personal life I struggle with anxiety, and I know other people are walking in a similar path. We wanna bring support and that they can do it. We wanna tell those people they're valuable and important just like any other person. In our society my team and I wanna explain what mental illness does to a person and how they're affected by it. By doing this we have a survey that brings down to certain outcomes and different outcomes as well. It's like a path of different options, everyone walks in a different path and different experiences. The videos will be the outcome that gives out the result so that the user who watches these videos will either have a better understanding or feel encouraged to not just get help but to feel the support we're trying to give out. We are wanting to get more info on mental illness so we can upgrade this program and be able to bring more options in our algorithm.
+
+## Algorithms and Abstraction
+
+
+
+
