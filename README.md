@@ -4,14 +4,19 @@
 ![alt text](https://github.com/Melanie-Lo-CS/Presentation/blob/master/TITLE%20PAGE.png )
 
 ## Introdction
-Mental Health App is a program to spread awareness of mental illness. This code has been edited by the schools Girl's Technovation team (Cup'O Java), we have chose to code with CSS and HTML. We chose those three languages to make a an app, but so far we have made a website out of it. The third language we have considered was JavaScript. The website itself is raw code. This program is something our team is continuing to develop for example: the algorithms. 
+Mental Health App is a program to spread awareness of mental illness. This code has been edited by the schools Girl's Technovation team (Cup'O Java), we have chose to code with CSS and HTML. We chose those three languages to make a an app, but so far we have made a website out of it with only HTML and CSS. The third language we have considered was JavaScript. The website itself is raw code. This program is something our team is continuing to develop for example the algorithms. We are looking forward to contact Alberta Health Services and our student services to get new ideas for this app and make it suitable for mobile and everyone to use!
 
 ## Instructions
 The first things in you need for my program to load are:
-*Atom
-*Chrome
-*My GitHub repository to download my files
-*URL(https://github.com/Melanie-Lo-CS/technovation)
+
+* Download Atom
+* Download Chrome
+* Go to GitHub repository URL(https://github.com/Melanie-Lo-CS/technovation)
+* download the zip from the download or clone button
+* Extract the file 
+* Right-click and open with Atom to see code
+* Otherwise double click to see my program and interact with it
+* Have fun!
 
 
 ## Preview
