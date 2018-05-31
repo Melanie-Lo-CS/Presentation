@@ -29,7 +29,7 @@ Picture of the videos page.
 ## Video
 <a href="https://www.youtube.com/watch?v=TpjHn2EuEyw"
 target="_blank"><img src="http://img.youtube.com/vi/www.youtube.com/watch?v=TpjHn2EuEyw/0.jpg
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="My program" width="240" height="180" border="10" /></a>
 
 ## Purpose Of Program
 This program is serving an understanding of Mental illness that some people struggle or suffer with. It's to spread awareness of how they're also humans just like every other person. The program is to bring understanding and how they're also not alone in their journey. In my personal life I struggle with anxiety, and I know other people are walking in a similar path. We wanna bring support and that they can do it. We wanna tell those people they're valuable and important just like any other person. In our society my team and I wanna explain what mental illness does to a person and how they're affected by it. By doing this we have a survey that brings down to certain outcomes and different outcomes as well. It's like a path of different options, everyone walks in a different path and different experiences. The videos will be the outcome that gives out the result so that the user who watches these videos will either have a better understanding or feel encouraged to not just get help but to feel the support we're trying to give out. We are wanting to get more info on mental illness so we can upgrade this program and be able to bring more options in our algorithm.
