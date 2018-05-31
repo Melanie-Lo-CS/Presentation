@@ -28,7 +28,7 @@ Picture of the videos page.
 
 ## Video
 <a href="https://www.youtube.com/watch?v=TpjHn2EuEyw"
-target="_blank"><img src="http://img.youtube.com/vi/www.youtube.com/watch?v=TpjHn2EuEyw/0.jpg
+target="_blank"><img src="http://img.youtube.com/vi/www.youtube.com/watch?v=TpjHn2EuEyw/0.jpg"
 alt="My program" width="240" height="180" border="10" /></a>
 
 ## Purpose Of Program
