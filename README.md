@@ -44,8 +44,8 @@ This program is serving an understanding of Mental illness that some people stru
 My algorithm has not been fully developed yet, I will however explain how my program is gonna work with it. The algorithm I am planning to create a pattern from the survey that shows certain outcomes of videos through what the user's answers are. The videos will be displayed of relatable content of the answers of the survey to make our program more compatible with the user at a level. There will be at least 5-10 videos of certain outcomes. 
 
 My program is made up of abstractions.
-*button code: <button class="button button1">Start</button>
-*survey code: 
+* button code: <button class="button button1">Start</button>
+* survey code: 
             First name; <input type="text" name="firstname"><br><br>
             Last name ; <input type="text" name="lastname"><br></br>
 
