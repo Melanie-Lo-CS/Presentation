@@ -66,4 +66,7 @@ My program is made up of abstractions.
 
 One of the things my team and I had difficulties with were implementing JavaScript to this program because we had a different engine for it and it was missing some files we could not solve. The other issue is how were going to collect data from the survey. 
 
+## Other Ideas
+JavaScript is a language we have been trying to implement but we had issues. This is the engine we used to code with JavaScript.
+![alt text](https://github.com/Melanie-Lo-CS/Presentation/blob/master/%233.PNG)
 
