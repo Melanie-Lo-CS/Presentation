@@ -37,7 +37,7 @@ alt="My program" width="240" height="180" border="10" /></a>
 
 ## Purpose Of Program
 
-This program is serving an understanding of mental illness that some people struggle or suffer with. It's to spread awareness of how they're also humans just like every other person. The program is to bring understanding and how they're also not alone in their journey. In my personal life I struggle with anxiety, and I know other people are walking in a similar path. We wanna bring support and that they can do it. In our society, my team and I wanna explain what mental illness does to a person and how they're affected by it. By doing this we have a survey that brings down to certain outcomes and different outcomes as well. We also want others to acknowledge their well-being because it can affect how those with mental illness feel and think. 
+This program is serving an understanding of mental illness that some people struggle or suffer with. In my personal life I struggle with anxiety, and I know other people are walking in a similar path. We wanna bring support and that some people are here for those in need. In our society, my team and I wanna explain what mental illness does to a person and how they're affected by it. By doing this we have a survey that brings down to certain outcomes and different outcomes as well. We also want others to acknowledge their well-being because it can affect how those with mental illness feel and think. 
 
 ## Algorithms and Abstraction
 
