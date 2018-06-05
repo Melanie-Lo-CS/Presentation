@@ -5,17 +5,18 @@
 
 ## Introdction
 
-Mental Health App is a program to spread awareness of mental illness and how people and others around get affected by it and also to help users know that they're not alone. This code has been edited by the schools Girl's Technovation team (Cup'O Java), we have chose to code with CSS and HTML. We chose those three languages to make an app, but so far we have made a website out of it with only HTML and CSS. The third language we have considered was JavaScript (we had issues). The website itself is made of raw code.
+Mental Health App is a program to spread awareness of mental illness and how people and others around get affected by it and also to help users know that they're not alone. This code has been edited by the schools Girl's Technovation team (Cup'O Java), we have chose to code with CSS and HTML. We chose those three languages to make an app, but so far we have made a website out of it with only HTML and CSS. The third language we have considered was JavaScript (we had issues). The website itself is made of raw code. My program runs locally on GitHub.
 
 ## Instructions
 
 Specific instructions on how to download my program. 
 
 * Download Chrome
-* Download Atom
+* Download Atom through Chrome(only for code)
 * Go to my GitHub repository in chrome, URL:(https://github.com/Melanie-Lo-CS/technovation)
 * Download the zip from the download or clone button
-* Extract the file 
+* Show in folder after download
+* Extract the file in your own file explorer
 * The file then shows a Chrome icon, double click on the "project.html" chrome file to see main page
 * Or right-click it and open with Atom to see raw code
 * Have fun!
@@ -24,10 +25,8 @@ Specific instructions on how to download my program.
 ## Preview
 
 ![alt text](https://github.com/Melanie-Lo-CS/Presentation/blob/master/%231.PNG)
-Picture of the survey.
 
 ![alt text](https://github.com/Melanie-Lo-CS/Presentation/blob/master/%232.PNG)
-Picture of the videos page.
 
 ## Video
 
