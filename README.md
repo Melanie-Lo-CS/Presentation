@@ -66,9 +66,10 @@ My program is made up of abstractions like:
 One of the things my team and I had difficulties with were implementing JavaScript to this program because we had a different engine for it and it was missing some files we could not solve. The other issue is how were going to collect data from the survey. 
 
 ## Other Ideas
-JavaScript is a language we have been trying to implement but we had issues. This is the engine we used to code with JavaScript.
+
+This is the engine we used to code with JavaScript. The program is shown is through this site https://code3dgames.com/3de/. This engine was going to be used as a game program within the web app.
 
 ![alt text](https://github.com/Melanie-Lo-CS/Presentation/blob/master/%233.PNG)
 
-We are looking forward to contact Alberta Health Services and our student services to get new ideas for this app and make it suitable for mobile and everyone to use!
+We are still looking for ways to improve ths app to become modern and useful. We are looking forward to contact Alberta Health Services and our student services to get new ideas for this app and make it suitable for mobile and everyone to use!
 
