@@ -5,7 +5,7 @@
 
 ## Introdction
 
-Mental Health App is a program to spread awareness of mental illness and how people and others around get affected by it and also to help users know that they're not alone. This code has been edited by the schools Girl's Technovation team (Cup'O Java), we have chose to code with CSS and HTML. We chose those three languages to make an app, but so far we have made a website out of it with only HTML and CSS. The third language we have considered was JavaScript (we had issues). The website itself is made of raw code. My program runs locally on GitHub.
+Mental Health App is a program to spread awareness of mental illness and how people and others around get affected by it and also to help users know that they're not alone. This code has been edited by the schools Girl's Technovation team (Cup'O Java), we have chose to code with CSS and HTML. We chose those three languages to make an app, but so far we have made a website out of it with only HTML and CSS. The third language we have considered was JavaScript (we had issues).I chose to work with it because  wanted to work with algorithms at a deeper level. The website itself is made of raw code. My program runs locally on GitHub.
 
 ## Instructions
 
